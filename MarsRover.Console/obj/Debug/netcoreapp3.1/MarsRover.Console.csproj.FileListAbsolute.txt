@@ -1,0 +1,16 @@
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\obj\Debug\netcoreapp3.1\MarsRover.Console.AssemblyInfoInputs.cache
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\obj\Debug\netcoreapp3.1\MarsRover.Console.AssemblyInfo.cs
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\obj\Debug\netcoreapp3.1\MarsRover.Console.csproj.CoreCompileInputs.cache
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\bin\Debug\netcoreapp3.1\MarsRover.Console.exe
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\bin\Debug\netcoreapp3.1\MarsRover.Console.deps.json
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\bin\Debug\netcoreapp3.1\MarsRover.Console.runtimeconfig.json
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\bin\Debug\netcoreapp3.1\MarsRover.Console.runtimeconfig.dev.json
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\bin\Debug\netcoreapp3.1\MarsRover.Console.dll
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\bin\Debug\netcoreapp3.1\MarsRover.Console.pdb
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\bin\Debug\netcoreapp3.1\MarsRover.Core.dll
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\bin\Debug\netcoreapp3.1\MarsRover.Core.pdb
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\obj\Debug\netcoreapp3.1\MarsRover.Console.csprojAssemblyReference.cache
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\obj\Debug\netcoreapp3.1\MarsRover.Console.csproj.CopyComplete
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\obj\Debug\netcoreapp3.1\MarsRover.Console.dll
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\obj\Debug\netcoreapp3.1\MarsRover.Console.pdb
+C:\Projects\AMC\Hepsiburada\MarsRover\MarsRover.Console\obj\Debug\netcoreapp3.1\MarsRover.Console.genruntimeconfig.cache
